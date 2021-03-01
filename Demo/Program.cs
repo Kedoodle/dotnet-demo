@@ -8,9 +8,9 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            // ExampleUsingLoop();
+            ExampleUsingLoop();
             // ExampleUsingLinq();
-            ExampleUsingJoin();
+            // ExampleUsingJoin();
         }
         
         private static void Demos()
